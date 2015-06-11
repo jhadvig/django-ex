@@ -16,7 +16,7 @@ BIND_ADDR="0.0.0.0:8080"
 
 function run() {
   # For SCL enablement
-  source .bashrc
+  #source .bashrc
 
   set -e
 

@@ -6,7 +6,7 @@
 
 function assemble() {
   # For SCL enablement
-  source .bashrc
+  #source .bashrc
 
   set -e
 
